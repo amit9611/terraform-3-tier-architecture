@@ -381,5 +381,5 @@ default = ["user1", "amith", "user3", "user4"]
 }
 
 resource "aws_iam_group" "two" {
-name = "devopswithawsbyraham"
+name = "amith007123"
 }
